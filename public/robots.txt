@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kiral-oyun.lovable.app/sitemap.xml

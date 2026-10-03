@@ -1,0 +1,10 @@
+name = "kiral-oyun"
+compatibility_date = "2026-07-27"
+[vars]
+SUPABASE_URL = "https://ynxzvhuirfdrrlmswyha.supabase.co"
+VITE_SUPABASE_URL = "https://ynxzvhuirfdrrlmswyha.supabase.co"
+SUPABASE_PUBLISHABLE_KEY = "sb_publishable_yY3wj9Ad5EDPsJHTIGQVzQ_zJvArwcO"
+VITE_SUPABASE_PUBLISHABLE_KEY = "sb_publishable_yY3wj9Ad5EDPsJHTIGQVzQ_zJvArwcO"
+VITE_SUPABASE_ANON_KEY = "sb_publishable_yY3wj9Ad5EDPsJHTIGQVzQ_zJvArwcO"
+MY_SUPABASE_SERVICE_ROLE_KEY = "sb_secret_ZVWukfa068sMqVCZ7oCZmA_GRQp059r"
+SUPABASE_SERVICE_ROLE_KEY = "sb_secret_ZVWukfa068sMqVCZ7oCZmA_GRQp059r"
